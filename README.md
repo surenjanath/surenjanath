@@ -10,11 +10,11 @@
 Hi, I am a Trinidadian, a boring one to be exact. Currently awaiting on my degree in Actuarial Science at the University of West Indies, St Augustine.
 I am studying to be an actuary with goals of a data scientists. Working with data can be quite fun. :smile:
 My deepest interests are : 
-                            - Machine Learning
-                            - Deep Learning
-                            - Violin 🎻
-                            - python programming
-                            - Mathematics
+- Machine Learning
+- Deep Learning
+- Violin 🎻
+- python programming
+- Mathematics
 
 I am looking to collaborate on any project if desire. You can contact me on Facebook, Instagram, LinkedIn or Youtube with the given contact information above.
 
