@@ -37,9 +37,6 @@ I am looking to collaborate on any project if desire. You can contact me on Face
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zlc5j5zc3zhd3lie7tkbruq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21zlc5j5zc3zhd3lie7tkbruq&redirect=true)
 
 
@@ -47,7 +44,8 @@ I am looking to collaborate on any project if desire. You can contact me on Face
 
 
 :computer: Made with :heart: by **Surenjanath** 
-#Visitors
+
+# Visitors
 ![visitors](https://komarev.com/ghpvc/?username=surenjanath)
 
 [![facebook]: https://facebook.com/surenjanath.singh
