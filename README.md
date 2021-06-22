@@ -2,7 +2,6 @@
 # Hi, I'm Surenjanath Singh (:computer::bulb::heart:)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF7E2&center=true&vCenter=true&lines=Welcome+to+my+Git;I+love+to+analyze;and+scrape+data;especially+challenging+websites)](https://git.io/typing-svg)
-[![Facebook]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://tt.linkedin.com/in/surenjanath) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC) 
 
@@ -48,21 +47,13 @@ I am looking to collaborate on any project if desire. You can contact me on Face
 # Visitors
 ![visitors](https://komarev.com/ghpvc/?username=surenjanath&color=blueviolet)
 
-[![facebook]: https://facebook.com/surenjanath.singh
-[![twitter]: https://twitter.com/surenjanath
-[![instagram]: https://instagram.com/surenjanath
-[![youtube]: https://www.youtube.com/SurenjanathSinghLC
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surenjanath&label=Profile%20views&color=0e75b6&style=flat" alt="surenjanath" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surenjanath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surenjanath" height="30" width="40" /></a>
 <a href="https://fb.com/surenjanath.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surenjanath.singh" height="30" width="40" /></a>
 <a href="https://instagram.com/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surenjanath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surenjanath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/SurenjanathSinghLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surenjanath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
