@@ -1,7 +1,8 @@
 
 # Hi, I'm Surenjanath Singh (:computer::bulb::heart:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF7E2&center=true&vCenter=true&lines=Welcome+to+my+Git;I+love+to+analyze;and+scrape+data;especially+challenging+websites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF7E2&lines=Welcome+to+my+Git;I+love+to+analyze;and+scrape+data;especially+challenging+websites)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://tt.linkedin.com/in/surenjanath) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC) 
 
