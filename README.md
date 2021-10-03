@@ -8,8 +8,8 @@
 
 
 Hi, I am from Trinidad and Tobago. 
-Recent graduate of Actuarial Science at the University of West Indies, St Augustine.
-I am studying to be an actuary with goals of also being a data scientists. 
+Recently graduated with a degree in Actuarial Science at the University of West Indies, St Augustine.
+I am studying to be an actuary with goals of becoming a data scientist. 
 Working with data can be quite fun. :smile:
 I really love animals.
 
