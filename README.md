@@ -62,11 +62,11 @@ I am looking to collaborate on any project if desire. You can contact me on Face
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surenjanath&show_icons=true&locale=en&layout=compact" alt="surenjanath" /></p>
-<p></p>
+<br></br>
 <p>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=surenjanath&show_icons=true&locale=en" alt="surenjanath" /></p>
 </p>
-<p></p>
+<br></br>
 <p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surenjanath&" alt="surenjanath" /></p>
 </p>
