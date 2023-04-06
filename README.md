@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://tt.linkedin.com/in/surenjanath) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC) 
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQY3fUEuwLLysW0oO2DDdzQ) 
 
 Hi, I am from Trinidad and Tobago. 
 Recently graduated with a degree in Actuarial Science at the University of West Indies, St Augustine.
