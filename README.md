@@ -7,6 +7,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQY3fUEuwLLysW0oO2DDdzQ) 
 
+
+### Python Youtube Channel : 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ) 
+
+
 Hi, I am from Trinidad and Tobago. 
 Recently graduated with a degree in Actuarial Science at the University of West Indies, St Augustine.
 I am studying to be an actuary with goals of becoming a data scientist. 
@@ -27,13 +32,9 @@ I am looking to collaborate on any project if desire. You can contact me on Face
 
 - 💪 Currently messing around.
 - 💝 Author of multiple crazy projects
-
-- 🏆 2021 Goals:
-  - Contribute and publish more projects.
-  - Finish atleast 12 + udemy courses before year ends
-  - Improve and finish my projects that I've started here.
-  
 - 🎯 Using my free time to code and learn new courses.
+
+
 
 ## :headphones: Spotify Playing
 
