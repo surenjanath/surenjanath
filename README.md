@@ -12,7 +12,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ) 
 
 
-### SEE PORTFOLIO WEBSITE HERE -- > <a href="https://surenjanath.github.io" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0d45db78-eca9-4722-9a1f-5e1bb4bc48db" alt="surenjanath" height="30" width="40" /></a> 
+### SEE PORTFOLIO WEBSITE HERE -- > <a href="https://surenjanath.github.io" target="blank"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/462c6e29-32a1-4ecd-84a4-337282725ded" />
+</a> 
 
 
 
