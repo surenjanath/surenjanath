@@ -12,6 +12,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ) 
 
 
+### SEE PORTFOLIO WEBSITE HERE -- > <a href="https://surenjanath.github.io" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0d45db78-eca9-4722-9a1f-5e1bb4bc48db" alt="surenjanath" height="30" width="40" /></a> 
+
+
+
+
+
 Hi, I am from Trinidad and Tobago. 
 Recently graduated with a degree in Actuarial Science at the University of West Indies, St Augustine.
 I am studying to be an actuary with goals of becoming a data scientist. 
