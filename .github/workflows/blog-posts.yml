@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://surenjanath.medium.com/feed"
           max_post_count: 5
-          template: "- 📝 **[$title]($url)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>$date</sub>$newline"
+          template: "$newline- 📝 **[$title]($url)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>$date</sub>"
           date_format: "mmm d, yyyy"
           commit_message: "chore: update latest Medium posts"
