@@ -1,0 +1,48 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # daily, ~3:00 AM Trinidad time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Create a classic PAT with `public_repo` + `read:user` scopes,
+          # save it as a repo secret named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: surenjanath
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Port_of_Spain
+
+          # Isometric commit calendar (full year)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Language details
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+
+          # Coding habits (commit hours/days)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+
+          # Stargazers & achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+          # Starred topics
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 12
