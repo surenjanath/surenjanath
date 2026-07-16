@@ -22,6 +22,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Port_of_Spain
 
+          # Retry failed plugins instead of showing "Unexpected error"
+          retries: 3
+          retries_delay: 120
+          plugins_errors_fatal: no
+
           # Isometric commit calendar (full year)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -31,10 +36,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
 
-          # Coding habits (commit hours/days)
+          # Coding habits (commit hours/days) — lighter API load
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_from: 100
+          plugin_habits_days: 14
           plugin_habits_charts: yes
 
           # Stargazers & achievements
