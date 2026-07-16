@@ -1,79 +1,171 @@
+<div align="center">
 
-# Hi, I'm Surenjanath Singh (:computer::bulb::heart:)
+# Hi, I'm Surenjanath Singh 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Welcome+to+my+Git-Hub;I+love+to+analyze+and+scrape+data;My+love+for+animals+is+unconditional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Data+%26+Solutions+Engineer;I+build+AI+systems+for+regulated+industries;LLM+agents+advise.+Deterministic+gates+decide.;Local-first.+Sovereign.+Verifiable+by+design.;Built+in+Trinidad+%26+Tobago+%F0%9F%87%B9%F0%9F%87%B9)](https://surenjanath.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://tt.linkedin.com/in/surenjanath) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQY3fUEuwLLysW0oO2DDdzQ) 
+📍 Trinidad & Tobago 🇹🇹 (UTC-4) · 🌐 [surenjanath.dev](https://surenjanath.dev) · 🖼️ [Portfolio](https://surenjanath.github.io)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surenjanath)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://surenjanath.medium.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/SurenjanathSinghLC)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surenjanath)
 
-### Python Youtube Channel : 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ) 
+![Profile views](https://komarev.com/ghpvc/?username=surenjanath&color=6366f1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/surenjanath?style=for-the-badge&color=7aa2f7)
+![Stars](https://img.shields.io/github/stars/surenjanath?style=for-the-badge&color=bb9af7)
 
+</div>
 
-### SEE PORTFOLIO WEBSITE HERE -- > <a href="https://surenjanath.github.io" target="blank"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/462c6e29-32a1-4ecd-84a4-337282725ded" />
-</a> 
+I build the systems insurance companies actually run on: policy administration, claims platforms, regulatory reporting, and — increasingly — AI systems designed for environments where a wrong answer has legal consequences.
 
+---
 
+## 🧠 How I think about AI in production
 
+Most AI demos fall apart in regulated environments because the LLM has the final word. My core pattern inverts that: **LLM agents advise, a deterministic rules engine decides.** Agents handle retrieval, interpretation, and drafting; a code-level gate with binding authority validates every decision against explicit business and statutory rules before anything is committed. You get the flexibility of language models with the auditability regulators require.
 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    THE DETERMINISTIC GATE                   │
+│                                                             │
+│   🤖 Agent 1 ──┐                                            │
+│   🤖 Agent 2 ──┼──▶  advisory findings  ──▶  🛡️ RULES GATE  │
+│   🤖 Agent 3 ──┘     (retrieve, draft,       (binding       │
+│                       interpret)              authority)    │
+│                                                    │        │
+│                                          ✅ commit or       │
+│                                          ❌ reject + audit  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Hi, I am from Trinidad and Tobago. 
-Recently graduated with a degree in Actuarial Science at the University of West Indies, St Augustine.
-I am studying to be an actuary with goals of becoming a data scientist. 
-Working with data can be quite fun. :smile:
-I really love animals.
+This is the architecture behind my current work in multi-agent claims adjudication, and it shapes everything I build — local-first, sovereign, and verifiable by design.
 
-My deepest interests are : 
-- Machine Learning
-- Deep Learning
-- Violin 🎻
-- python programming
-- Mathematics
-- Money 🤑
-- Music 🎵
+## 🔒 Production systems I've shipped
 
-I am looking to collaborate on any project if desire. You can contact me on Facebook, Instagram, LinkedIn or Youtube with the given contact information above.
+My day job is building proprietary platforms for an insurance group operating across the Caribbean and South America. The code is private, but the systems are real and in production:
 
+- **Multi-agent AI claims adjudication** — LLM agents in advisory roles with a deterministic engine as binding authority, jurisdiction-aware document retrieval across multiple territories
+- **Regulatory reporting automation** — consolidates financial data across 15 territories and populates quarterly statutory returns (life & general), cutting the finance team's workload ~80%
+- **Policy administration platform** — Django system managing 29,000+ policies with a REST API, built by reverse-engineering the legacy system it replaced
+- **Multi-territory loyalty platform** — partner portal, customer mobile app, and admin system spanning 4 territories and 120+ partner locations, with anti-fraud rotating QR codes
+- **Broker-facing insurance portal** — TT$1.5M+ in premium processed since launch
+- **Claims lifecycle portal, bank reconciliation engine, pension management system** — each replacing 100+ hours/month of manual work
 
-- 💪 Currently messing around.
-- 💝 Author of multiple crazy projects
-- 🎯 Using my free time to code and learn new courses.
+Sole engineer across the full lifecycle: development, deployment, infrastructure (nginx, SSL/TLS, DNS), and production support.
 
+## 🧪 Public work you can actually read
 
+The repos here are where I test ideas on my own time — mostly local-first AI:
 
-## :headphones: Spotify Playing
+<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zlc5j5zc3zhd3lie7tkbruq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=21zlc5j5zc3zhd3lie7tkbruq&redirect=true)
+[![neural-analyst](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=neural-analyst&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/neural-analyst)
+[![FormulaSpark](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=FormulaSpark&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/FormulaSpark)
 
+[![AgriShield](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=AgriShield&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/AgriShield)
+[![Actuarial_Loss_system_ai](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=Actuarial_Loss_system_ai&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/Actuarial_Loss_system_ai)
 
+[![PriceTracker-Pricesmart](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=PriceTracker-Pricesmart&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/PriceTracker-Pricesmart)
+[![Maritime-Ports-DB-Builder](https://github-readme-stats.vercel.app/api/pin/?username=surenjanath&repo=Maritime-Ports-DB-Builder&theme=tokyonight&hide_border=true)](https://github.com/surenjanath/Maritime-Ports-DB-Builder)
 
+</div>
 
+| Project | What it proves |
+|---|---|
+| **neural-analyst** | Privacy-focused desktop app: autonomous web crawling + local RAG, no cloud dependency |
+| **FormulaSpark** | Local LLMs (Ollama) translating natural language into Excel formulas, with direct Excel integration |
+| **AgriShield** | Climate intelligence & parametric insurance risk platform for Caribbean agriculture |
+| **Actuarial Loss System AI** | Applying AI to actuarial loss analysis — where my degree meets my stack |
+| **PriceTracker-Pricesmart** | Zero-touch data pipeline on GitHub Actions: daily scrape → SQL → committed analysis |
+| **Maritime Ports DB Builder** | Relational schema design & data modeling from ethically scraped maritime data |
 
-:computer: Made with :heart: by **Surenjanath** 
+## 📊 GitHub at a glance
 
-# Visitors
-![visitors](https://komarev.com/ghpvc/?username=surenjanath&color=blueviolet)
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surenjanath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surenjanath" height="30" width="40" /></a>
-<a href="https://fb.com/surenjanath.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surenjanath.singh" height="30" width="40" /></a>
-<a href="https://instagram.com/surenjanath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surenjanath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/SurenjanathSinghLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surenjanath" height="30" width="40" /></a>
-</p>
+![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=surenjanath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surenjanath&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=surenjanath&theme=tokyonight&hide_border=true)
 
-<p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surenjanath&show_icons=true&locale=en&layout=compact" alt="surenjanath" /></p>
-</p>
+</div>
 
+### 🔬 Deep profile analysis
 
-<!---
-surenjanath/surenjanath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surenjanath&theme=tokyonight)
+
+![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surenjanath&theme=tokyonight&utcOffset=-4)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surenjanath&theme=tokyonight)
+
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surenjanath&theme=tokyonight)
+![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surenjanath&theme=tokyonight)
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=surenjanath&theme=tokyo-night&hide_border=true&area=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=surenjanath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+### 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/surenjanath/surenjanath/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_/_Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**AI engineering:** Multi-agent orchestration · RAG · prompt & eval design · Cursor / Claude Code
+
+**Background:** BSc Actuarial Science, University of the West Indies, St Augustine — I speak both risk and code.
+
+## 🎻 Beyond the code
+
+Born and raised in Trinidad and Tobago, and it shows — in the humor, the music, and the projects (half my scrapers exist because I wanted local T&T data that didn't exist anywhere).
+
+- 🎵 I produce and release music — dark atmospheric, Caribbean-inflected, always experimenting
+- 🎻 Violin, when the code compiles
+- 🐾 My love for animals is unconditional
+- 📈 Actuarial science degree, engineer's heart — mathematics and money still fascinate me
+- 📹 I've taught Python on [YouTube](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ)
+
+### 🎧 What I'm listening to
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=21zlc5j5zc3zhd3lie7tkbruq&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false)](https://open.spotify.com/user/21zlc5j5zc3zhd3lie7tkbruq)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random dev wisdom
+
+![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+💬 Open to conversations about **AI in regulated industries**, **data sovereignty in the Caribbean**, and **remote engineering roles** (UTC-4, aligns with US Eastern).
+
+💻 Made with ❤️ by **Surenjanath**
+
+⭐ *If something here helps you, star it — the snake gets hungrier.*
+
+</div>
