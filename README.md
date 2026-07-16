@@ -17,7 +17,7 @@
 
 </div>
 
-I build the systems insurance companies actually run on: policy administration, claims platforms, regulatory reporting, and - increasingly - AI systems designed for environments where a wrong answer has legal consequences.
+I build the systems insurance companies actually run on: policy administration, claims platforms, regulatory reporting, and — increasingly — AI systems designed for environments where a wrong answer has legal consequences.
 
 ---
 
@@ -39,24 +39,24 @@ Most AI demos fall apart in regulated environments because the LLM has the final
 └─────────────────────────────────────────────────────────────┘
 ```
 
-This is the architecture behind my current work in multi-agent claims adjudication, and it shapes everything I build - local-first, sovereign, and verifiable by design.
+This is the architecture behind my current work in multi-agent claims adjudication, and it shapes everything I build — local-first, sovereign, and verifiable by design.
 
 ## 🔒 Production systems I've shipped
 
 My day job is building proprietary platforms for an insurance group operating across the Caribbean and South America. The code is private, but the systems are real and in production:
 
-- **Multi-agent AI claims adjudication** - LLM agents in advisory roles with a deterministic engine as binding authority, jurisdiction-aware document retrieval across multiple territories
-- **Regulatory reporting automation** - consolidates financial data across 15 territories and populates quarterly statutory returns (life & general), cutting the finance team's workload ~80%
-- **Policy administration platform** - Django system managing 29,000+ policies with a REST API, built by reverse-engineering the legacy system it replaced
-- **Multi-territory loyalty platform** - partner portal, customer mobile app, and admin system spanning 4 territories and 120+ partner locations, with anti-fraud rotating QR codes
-- **Broker-facing insurance portal** - TT$1.5M+ in premium processed since launch
-- **Claims lifecycle portal, bank reconciliation engine, pension management system** - each replacing 100+ hours/month of manual work
+- **Multi-agent AI claims adjudication** — LLM agents in advisory roles with a deterministic engine as binding authority, jurisdiction-aware document retrieval across multiple territories
+- **Regulatory reporting automation** — consolidates financial data across 15 territories and populates quarterly statutory returns (life & general), cutting the finance team's workload ~80%
+- **Policy administration platform** — Django system managing 29,000+ policies with a REST API, built by reverse-engineering the legacy system it replaced
+- **Multi-territory loyalty platform** — partner portal, customer mobile app, and admin system spanning 4 territories and 120+ partner locations, with anti-fraud rotating QR codes
+- **Broker-facing insurance portal** — TT$1.5M+ in premium processed since launch
+- **Claims lifecycle portal, bank reconciliation engine, pension management system** — each replacing 100+ hours/month of manual work
 
 Sole engineer across the full lifecycle: development, deployment, infrastructure (nginx, SSL/TLS, DNS), and production support.
 
 ## 🧪 Public work you can actually read
 
-The repos here are where I test ideas on my own time - mostly local-first AI:
+The repos here are where I test ideas on my own time — mostly local-first AI:
 
 <div align="center">
 
@@ -76,7 +76,7 @@ The repos here are where I test ideas on my own time - mostly local-first AI:
 | **neural-analyst** | Privacy-focused desktop app: autonomous web crawling + local RAG, no cloud dependency |
 | **FormulaSpark** | Local LLMs (Ollama) translating natural language into Excel formulas, with direct Excel integration |
 | **AgriShield** | Climate intelligence & parametric insurance risk platform for Caribbean agriculture |
-| **Actuarial Loss System AI** | Applying AI to actuarial loss analysis - where my degree meets my stack |
+| **Actuarial Loss System AI** | Applying AI to actuarial loss analysis — where my degree meets my stack |
 | **PriceTracker-Pricesmart** | Zero-touch data pipeline on GitHub Actions: daily scrape → SQL → committed analysis |
 | **Maritime Ports DB Builder** | Relational schema design & data modeling from ethically scraped maritime data |
 
@@ -117,6 +117,27 @@ The repos here are where I test ideas on my own time - mostly local-first AI:
 
 </div>
 
+### 🏙️ Contribution skyline (3D)
+
+<div align="center">
+
+![3D contribution graph](https://raw.githubusercontent.com/surenjanath/surenjanath/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+### 📈 Full metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/surenjanath/surenjanath/main/github-metrics.svg)
+
+</div>
+
+## ✍️ Latest from my Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -134,16 +155,16 @@ The repos here are where I test ideas on my own time - mostly local-first AI:
 
 **AI engineering:** Multi-agent orchestration · RAG · prompt & eval design · Cursor / Claude Code
 
-**Background:** BSc Actuarial Science, University of the West Indies, St Augustine - I speak both risk and code.
+**Background:** BSc Actuarial Science, University of the West Indies, St Augustine — I speak both risk and code.
 
 ## 🎻 Beyond the code
 
-Born and raised in Trinidad and Tobago, and it shows - in the humor, the music, and the projects (half my scrapers exist because I wanted local T&T data that didn't exist anywhere).
+Born and raised in Trinidad and Tobago, and it shows — in the humor, the music, and the projects (half my scrapers exist because I wanted local T&T data that didn't exist anywhere).
 
-- 🎵 I produce and release music - dark atmospheric, Caribbean-inflected, always experimenting
+- 🎵 I produce and release music — dark atmospheric, Caribbean-inflected, always experimenting
 - 🎻 Violin, when the code compiles
 - 🐾 My love for animals is unconditional
-- 📈 Actuarial science degree, engineer's heart - mathematics and money still fascinate me
+- 📈 Actuarial science degree, engineer's heart — mathematics and money still fascinate me
 - 📹 I've taught Python on [YouTube](https://www.youtube.com/channel/UCbDL7RSxZIJnhFBRay-JrWQ)
 
 ### 🎧 What I'm listening to
@@ -166,6 +187,6 @@ Born and raised in Trinidad and Tobago, and it shows - in the humor, the music, 
 
 💻 Made with ❤️ by **Surenjanath**
 
-⭐ *If something here helps you, star it - the snake gets hungrier.*
+⭐ *If something here helps you, star it — the snake gets hungrier.*
 
 </div>
