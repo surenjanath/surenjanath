@@ -136,11 +136,11 @@ The repos here are where I test ideas on my own time — mostly local-first AI:
 ## ✍️ Latest from my Medium
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 **[How a 1,244 line Python file replaced cables, cloud round trips and Android File Transfer in my…](https://surenjanath.medium.com/how-a-1-244-line-python-file-replaced-cables-cloud-round-trips-and-android-file-transfer-in-my-c3f6ee1fcd86?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Aug 1, 2026</sub>
 - 📝 **[How I Used Python to Reconcile $508k in Corrupted Annuity Data](https://surenjanath.medium.com/how-i-used-python-to-reconcile-508k-in-corrupted-annuity-data-b387678b6c49?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Apr 11, 2026</sub>
 - 📝 **[Claims Determination: An Actuarial Loss Dashboard Where Django Meets Local AI Agents](https://surenjanath.medium.com/claims-determination-an-actuarial-loss-dashboard-where-django-meets-local-ai-agents-43a89a355aed?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Apr 10, 2026</sub>
 - 📝 **[The biggest flaw in most AI chats? Amnesia and Chaos.](https://surenjanath.medium.com/the-biggest-flaw-in-most-ai-chats-amnesia-and-chaos-d468a9fd6cf2?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Sep 8, 2025</sub>
-- 📝 **[My Journey Building a Mobile Full-Stack ETL Pipeline: From Idea to Production](https://surenjanath.medium.com/my-journey-building-a-mobile-full-stack-etl-pipeline-from-idea-to-production-1c24f8d10a5b?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Aug 21, 2025</sub>
-- 📝 **[Building DragonMail: A Journey into Temporary Email Apps with React Native and Expo](https://surenjanath.medium.com/building-dragonmail-a-journey-into-temporary-email-apps-with-react-native-and-expo-f02890e7a3cd?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>May 20, 2025</sub><!-- BLOG-POST-LIST:END -->
+- 📝 **[My Journey Building a Mobile Full-Stack ETL Pipeline: From Idea to Production](https://surenjanath.medium.com/my-journey-building-a-mobile-full-stack-etl-pipeline-from-idea-to-production-1c24f8d10a5b?source=rss-419c230b2ecf------2)**<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Aug 21, 2025</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
